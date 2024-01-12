@@ -1,4 +1,4 @@
-# CS4211 Tennis Model
+# Tennis Model
 ## Introduction
 Traditionally, Probabilistic Model Checking (PMC) was used to analyze the correctness and
 performance of computer systems and protocols. However, due to the expressiveness and
